@@ -1,0 +1,2 @@
+The sift_demo.exe and extract_features.exe should be in the same folder
+
